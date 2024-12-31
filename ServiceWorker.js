@@ -1,9 +1,9 @@
 const cacheName = "Kalielso-Catalogo3Dmak-0.1";
 const contentToCache = [
     "Build/Catalogo 3D MAK.loader.js",
-    "Build/Catalogo 3D MAK.framework.js",
-    "Build/Catalogo 3D MAK.data",
-    "Build/Catalogo 3D MAK.wasm",
+    "Build/Catalogo 3D MAK.framework.js.unityweb",
+    "Build/Catalogo 3D MAK.data.unityweb",
+    "Build/Catalogo 3D MAK.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
